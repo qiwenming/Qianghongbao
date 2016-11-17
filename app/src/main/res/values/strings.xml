@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Qianghongbao</string>
+    <string name="accessibility_description">启动抢红包服务，支持微信。</string>
+</resources>
